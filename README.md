@@ -19,7 +19,7 @@
 <img  width="1000"src="2.jpg">
 <br/><br/>
 <img  width="1000"src="3.jpg">
-</br/><br/>
+<br/><br/>
 <h2> Ale muline można wykorzystać w zależności od sytuacji jak zabazpieczenia bala od słuchawe, aby się nie zniszczył.</h2>
 <br/>
 <img  width="1000"src="1.jpg">

@@ -3,7 +3,6 @@
 
 <head>
 <meta charset = "utf-8"/>
-<title>Mulina!</title>
 <meta name= "description " content="Pokaże co można robić z muliny oraz jedno nieptypowe jej zastosowanie przeze mnie"/>
 <meta name="keywords" content="mulina, hobby, materiał"/>
 <meta http-equiv="X-UA-Compatible" content="IE+edge,chrome=1"/>
